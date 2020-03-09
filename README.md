@@ -27,5 +27,3 @@ Contains css script for div,h1 and the board.
 ### `algorithm.js`
 
 Contains the algorithm for making the trie(digital tree) using dictionary and using this trie and depth first search to find the words in the board.<br />
-
-Code is explained in the files.
