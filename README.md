@@ -39,7 +39,3 @@ Contains the dictionary words<br />
 It is assumed that user has to enter the input only (size of board).<br />
 The json file is available in the src folder.<br />
 
-### `problems faced`
-
-As the value was change in the text box the state variable also changed which was creating rendering the random function all the time.<br />
-Solved by using a if_state_changed variable in app.js so that when submit button was pressed and if any change was there then only new grid would be created.<br />
