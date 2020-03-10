@@ -1,0 +1,21 @@
+.division {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+h1 {
+  color: rgb(0, 238, 255);
+}
+
+.box {
+  background: #4267b2;
+  border: 10px solid #4267b2;
+  color: #fff;
+  text-shadow: 0 1px 0px #3359a5;
+  font-weight: bold;
+}
